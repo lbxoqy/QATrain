@@ -1,0 +1,12 @@
+1、常用的增删改查命令
+insert into table values （v1，v2）
+delete from table where a = b
+update table set a = b where a = c
+select * from table where a =b
+
+1、删除操作的关键字
+drop删除数据库
+delete 删除表指定记录
+truncate 清空表记录
+
+
